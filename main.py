@@ -1,4 +1,3 @@
-is_win = False
 secret_word = 'pyyyme'
 check_word = secret_word
 users_word = len(secret_word) * '_'
